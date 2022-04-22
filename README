@@ -12,4 +12,4 @@ archive - ზიპ ფაილი, რომელიც აიტვირთ
 
 S3_bucket_notif:
 bucket_name - ახალი საცავის სახელი
-file_name - ასატვირთი ფაილის სახელი (.jpeg)
+file_name - ასატვირთი ფაილის სახელი
